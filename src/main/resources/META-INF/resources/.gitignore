@@ -1,0 +1,9 @@
+/node_modules/
+/build/
+/scripts/
+/node
+
+.DS_Store
+README.md
+sqlitedb.db
+

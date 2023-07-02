@@ -1,0 +1,282 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:bryan.pinto.1205@gmail.com
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20200526T090000Z
+DTEND:20200526T100000Z
+DTSTAMP:20211220T170551Z
+ORGANIZER;CN=HENRIQUES Manuel ResgBscH2rVdf:mailto:manuel.a.henriques@socge
+ n.com
+UID:040000008200E00074C5B7101A82E008000000009029BC165230D601000000000000000
+ 010000000C0A90CAD1EE1BE4BB3444D822B745992
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bryan.
+ pinto.1205@gmail.com;X-NUM-GUESTS=0:mailto:bryan.pinto.1205@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=GR
+ ENIER Denis ResgBscH2rVdf;X-NUM-GUESTS=0:mailto:denis.grenier@socgen.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=MA
+ RIE Matthieu ResgBscH2rVdf;X-NUM-GUESTS=0:mailto:matthieu.marie@socgen.com
+CREATED:20200522T140018Z
+DESCRIPTION:Monsieur Pinto\,\n\nJe vous propose de nous rejoindre sur Skype
+  (nous n’utiliserons que le contact téléphonique\, pas de vidéo) : +3315512
+ 0800\nIl faudra saisir le code 627456288#\n\nMerci\,\nManuel Henriques\n\n.
+ ...........................................................................
+ .............................................................\nParticiper à
+  une Réunion Skype <https://join.meeting-connect.com/socgen/manuel.a.henriq
+ ues/Q8LH51YY>\nVous n’arrivez pas à rejoindre cette réunion ? Essayer l’App
+  web Skype <https://join.meeting-connect.com/socgen/manuel.a.henriques/Q8LH
+ 51YY?sl=1>\nParticiper par téléphone\n +33155120800\,\,627456288# (France) 
+                         Français (France)\n 20 800\,\,627456288# (France)  
+                        Français (France)\nRechercher un numéro local <https
+ ://join.socgen.com/dialin?id=627456288>\n\nID de conférence : 627456288\n V
+ ous avez oublié votre code confidentiel de connexion ? <https://join.socgen
+ .com/dialin>  |Aide <https://ressources.safe.socgen/fr/skype-entreprise>\n\
+ n\nJoin from SG Video Room\, Etrali / Cisco Phone : call 20800\, enter conf
+ erence ID followed by #       -----       Rejoindre depuis une salle visio\
+ , un telephone Cisco ou Etrali SG : appelez le 20800\, puis entrer le confe
+ rence ID suivi de #\n[!OC([040c])!]\n......................................
+ ...........................................................................
+ ........................\n\n
+LAST-MODIFIED:20200522T141227Z
+LOCATION:Réunion Skype
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Premier contact avec Bryan Pinto - poste d'alternant
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:-1072277532
+X-MICROSOFT-CONFERENCETELURI:tel:+33155120800\,\,627456288
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"Réunion Skype"\,"LocationAnnotation"
+ :""\,"LocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationSta
+ te":""\,"LocationCountry":""\,"LocationPostalCode":""\,"LocationFullAddress
+ ":""}]
+X-MICROSOFT-ONLINEMEETINGCONFLINK:conf:sip:manuel.a.henriques@socgen.com\;g
+ ruu\;opaque=app:conf:focus:id:Q8LH51YY?conversation-id=PYZ118InV
+X-MICROSOFT-ONLINEMEETINGEXTERNALLINK:https://join.meeting-connect.com/socg
+ en/manuel.a.henriques/Q8LH51YY
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200624T120000Z
+DTEND:20200624T130000Z
+DTSTAMP:20211220T170551Z
+ORGANIZER;CN=HENRIQUES Manuel ResgBscH2rVdf:mailto:manuel.a.henriques@socge
+ n.com
+UID:040000008200E00074C5B7101A82E00800000000E0AD01801B43D601000000000000000
+ 0100000007AA2BEDD334B5C4897F2009A31233D1A
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bryan.
+ pinto.1205@gmail.com;X-NUM-GUESTS=0:mailto:bryan.pinto.1205@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=GR
+ ENIER Denis ResgBscH2rVdf;X-NUM-GUESTS=0:mailto:denis.grenier@socgen.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=MA
+ RIE Matthieu ResgBscH2rVdf;X-NUM-GUESTS=0:mailto:matthieu.marie@socgen.com
+CREATED:20200617T065517Z
+DESCRIPTION:\n.............................................................
+ ...........................................................................
+ .\nParticiper à une Réunion Skype <https://join.meeting-connect.com/socgen/
+ manuel.a.henriques/K5ZCYPTQ>\nVous n’arrivez pas à rejoindre cette réunion 
+ ? Essayer l’App web Skype <https://join.meeting-connect.com/socgen/manuel.a
+ .henriques/K5ZCYPTQ?sl=1>\nParticiper par téléphone\n +33155120800\,\,75304
+ 062# (France)                            Français (France)\n 20 800\,\,7530
+ 4062# (France)                           Français (France)\nRechercher un n
+ uméro local <https://join.socgen.com/dialin?id=75304062>\n\nID de conférenc
+ e : 75304062\n Vous avez oublié votre code confidentiel de connexion ? <htt
+ ps://join.socgen.com/dialin>  |Aide <https://ressources.safe.socgen/fr/skyp
+ e-entreprise>\n\n\nJoin from SG Video Room\, Etrali / Cisco Phone : call 20
+ 800\, enter conference ID followed by #       -----       Rejoindre depuis 
+ une salle visio\, un telephone Cisco ou Etrali SG : appelez le 20800\, puis
+  entrer le conference ID suivi de #\n[!OC([040c])!]\n......................
+ ...........................................................................
+ ........................................\n\n
+LAST-MODIFIED:20200617T070013Z
+LOCATION:Réunion Skype
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:2eme entretien avec Bryan Pinto
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:-1888524316
+X-MICROSOFT-CONFERENCETELURI:tel:+33155120800\,\,75304062
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"Réunion Skype"\,"LocationAnnotation"
+ :""\,"LocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationSta
+ te":""\,"LocationCountry":""\,"LocationPostalCode":""\,"LocationFullAddress
+ ":""}]
+X-MICROSOFT-ONLINEMEETINGCONFLINK:conf:sip:manuel.a.henriques@socgen.com\;g
+ ruu\;opaque=app:conf:focus:id:K5ZCYPTQ?conversation-id=yBEbrn5ZV4D
+X-MICROSOFT-ONLINEMEETINGEXTERNALLINK:https://join.meeting-connect.com/socg
+ en/manuel.a.henriques/K5ZCYPTQ
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":1}
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210528T140000Z
+DTEND:20210528T144500Z
+DTSTAMP:20211220T170551Z
+UID:br7m8e1oacm3d65kjm99nogfe4@google.com
+CREATED:20210527T135302Z
+DESCRIPTION:Bryan Pinto vous invite à une réunion Zoom planifiée.\n\nPartic
+ iper à la réunion Zoom\nhttps://us04web.zoom.us/j/71835651339?pwd=QnhxV05nN
+ HVjWUVGd2c0TmRzdnE1dz09\n\nID de réunion : 718 3565 1339\nCode secret : CbK
+ 48Y\n
+LAST-MODIFIED:20210527T135302Z
+LOCATION:https://us04web.zoom.us/j/71835651339?pwd=QnhxV05nNHVjWUVGd2c0TmRz
+ dnE1dz09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Zoom meeting invitation - Réunion Zoom visite annuelle entreprise d
+ e Bryan Pinto
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210703T195000Z
+DTEND:20210703T205000Z
+DTSTAMP:20211220T170551Z
+ORGANIZER;CN=Unknown Organizer:mailto:unknownorganizer@calendar.google.com
+UID:7kukuqrfedlm2f9tusigtrn1mcg391etmik79tncu8vfdbtgg8sfut715c3lrlmg3gf0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bryan.
+ pinto.1205@gmail.com;X-NUM-GUESTS=0:mailto:bryan.pinto.1205@gmail.com
+CLASS:PRIVATE
+CREATED:20210703T110148Z
+DESCRIPTION:Samedi 3 juillet 2021 à 21:50 Fin prévue à 00:19\nCinéma Gaumon
+ t Disney Village\, Chessy\, Île-de-France\, France\, 77700\n\nConfirmation 
+ number: WW6CXKF
+LAST-MODIFIED:20210709T082829Z
+LOCATION:Cinéma Gaumont Disney Village\, Chessy\, Île-de-France\, France\, 
+ 77700
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Samedi 3 juillet 2021 à 21:50 Fin prévue à 00:19
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210703T195000Z
+DTEND:20210703T205000Z
+DTSTAMP:20211220T170551Z
+ORGANIZER;CN=Unknown Organizer:mailto:unknownorganizer@calendar.google.com
+UID:7kukuqrfedlm2f9tokhoppki0rcfrkjd0qr9bpko230n0ne9kkpjriamdo8jvr3nv730
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bryan.
+ pinto.1205@gmail.com;X-NUM-GUESTS=0:mailto:bryan.pinto.1205@gmail.com
+CLASS:PRIVATE
+CREATED:20210703T110148Z
+DESCRIPTION:Samedi 3 juillet 2021 à 21:50 Fin prévue à 00:19\nCinéma Gaumon
+ t Disney Village\, Chessy\, Île-de-France\, France\, 77700\n\nConfirmation 
+ number: WW6CXKF
+LAST-MODIFIED:20210709T082830Z
+LOCATION:Cinéma Gaumont Disney Village\, Chessy\, Île-de-France\, France\, 
+ 77700
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Samedi 3 juillet 2021 à 21:50 Fin prévue à 00:19
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210512
+DTEND;VALUE=DATE:20210513
+RRULE:FREQ=YEARLY
+DTSTAMP:20211220T170551Z
+UID:2q8f6kli96dpc2tuaq7gfs8f9g@google.com
+CREATED:20211213T101146Z
+DESCRIPTION:Anniversaire
+LAST-MODIFIED:20211213T101146Z
+LOCATION:TEST
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Anniv BP
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20211215T040000
+DTEND;TZID=Europe/Paris:20211215T060000
+RRULE:FREQ=DAILY;UNTIL=20211229T225959Z
+DTSTAMP:20211220T170551Z
+UID:07757hb25s2sf7r1d0clt0fbr7@google.com
+CREATED:20211213T110129Z
+DESCRIPTION:descr
+LAST-MODIFIED:20211213T110129Z
+LOCATION:Tesla Giga Texas\, Austin\, Texas 78725\, États-Unis
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20211216T190000
+DTEND;TZID=Europe/Paris:20211217T113000
+RRULE:FREQ=DAILY;INTERVAL=3
+DTSTAMP:20211220T170551Z
+UID:4qb1hes1mngq1l1t76eq78np35@google.com
+CREATED:20211216T141056Z
+DESCRIPTION:FAC
+LAST-MODIFIED:20211216T141056Z
+LOCATION:Université Gustave Eiffel\, 5 Bd Descartes\, 77420 Champs-sur-Marn
+ e\, France
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:3Jours
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211230T083000Z
+DTEND:20211230T093000Z
+DTSTAMP:20211220T170551Z
+UID:5v7dm4lr5vlr7atm367l29nlod@google.com
+CREATED:20211216T141639Z
+DESCRIPTION:
+LAST-MODIFIED:20211216T141639Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:no recurrency
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20211212T073000
+DTEND;TZID=Europe/Paris:20211212T083000
+RRULE:FREQ=MONTHLY;BYDAY=2SU
+EXDATE;TZID=Europe/Paris:20211212T073000
+DTSTAMP:20211220T170551Z
+UID:06639flcvrfjhhtcq6f1oess0p@google.com
+CREATED:20211216T155356Z
+DESCRIPTION:
+LAST-MODIFIED:20211216T155356Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
